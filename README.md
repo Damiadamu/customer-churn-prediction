@@ -54,10 +54,11 @@ Confusion Matrix of Best ML Model:
 | Actual: Churn | 314 | 93 |
 | Actual: Didn't Churn | 354 | 1236 |
 
-From the confusion matrix of the two models, the bank would have hypothetically spend 407,000 euros on CAC if the base model was adopted, and 93,000 Euros on CAC if the best machine learning model was adopted. This shows that the machine learning model could reduce CAC by 77%.
+From the confusion matrix of the two models, the bank would have hypothetically spend 407,000 Euros on CAC if the base model was adopted, and 93,000 Euros on CAC if the best machine learning model was adopted. This shows that the machine learning model could reduce CAC by 77%.
 
 ## Next Steps
 
 * Try other type of models, find the optimal parameters of the best model, or use oversampling and undersampling techniques to see if we can improve the recall and precision the model further.
+
 
 * Collaborate with machine learning or software engineers so that the model can be easily accessible to the marketing department.
